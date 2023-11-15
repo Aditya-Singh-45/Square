@@ -1,3 +1,5 @@
+//Square
+
 #include<reg51.h>
 void Delay(unsigned int itime)
 {	
@@ -20,7 +22,7 @@ while(1)
 
 
 
-
+//Triangle
 
 
 #include<reg51.h>
@@ -45,7 +47,7 @@ void main(void)
 
 
 
-
+//Sine
 
 
 #include<reg51.h>
